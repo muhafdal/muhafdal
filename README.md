@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhafdal
-- 👀 I’m interested in Software Development, especially Mobile Applications and Website Applications
-- 🌱 I’m currently learning Website Application Development (CodeIgniter and Laravel) and Mobile Application Development (Java, Kotlin and Flutter)
+- 👀 I’m interested in Networking, Cyber Security, and Website Development
+- 🌱 Expanding my knowledge in Networking, Cyber Security, and scalable Website Development with CodeIgniter and Laravel.
 - 📫 How to reach me  • linkedin.com/in/m-afdal • muh.afdhal14@gmail.com • afdll.mh@gmail.com
 <!--- 💞️ I’m looking to collaborate on ... --->
 
